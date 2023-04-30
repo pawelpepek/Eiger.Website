@@ -11300,13 +11300,21 @@ header.masthead .h1 {
 	font-size: 2.25rem;
 }
 
-.phone {
+.contact-link {
 	text-decoration: none;
 }
 
-.phone-icon:hover {
+.contact-icon:hover {
 	color: var(--bs-link-hover-color) !important;
 	cursor: pointer;
+}
+
+.phone {
+	font-size: 0.9rem !important;
+	font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont,
+		"Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+		"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	font-weight: 700;
 }
 
 @media (min-width: 992px) {
