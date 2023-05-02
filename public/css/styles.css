@@ -692,6 +692,9 @@ progress {
 	.container {
 		max-width: 720px;
 	}
+	.last-section{
+		margin-bottom: 8rem !important;
+	}
 }
 @media (min-width: 992px) {
 	.container-lg,
