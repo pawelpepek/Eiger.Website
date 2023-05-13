@@ -1,5 +1,11 @@
 {
-  "projects": {
-    "default": "eiger-alpin"
-  }
+	"projects": {
+		"default": "eiger-alpin"
+	},
+	"rewrites": [
+		{
+			"source": "/robots.txt",
+			"destination": "/robots.txt"
+		}
+	]
 }

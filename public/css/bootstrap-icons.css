@@ -1,0 +1,43 @@
+@font-face {
+	font-family: "bootstrap-icons";
+	src: url("./bootstrap-icons.woff2?856008caa5eb66df68595e734e59580d")
+			format("woff2"),
+		url("./bootstrap-icons.woff?856008caa5eb66df68595e734e59580d")
+			format("woff");
+}
+
+[class^="bi-"]::before,
+[class*=" bi-"]::before {
+	display: inline-block;
+	font-family: bootstrap-icons !important;
+	font-style: normal;
+	font-weight: normal !important;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	vertical-align: -0.125em;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.bi-gem::before {
+	content: "\f3e6";
+}
+.bi-lightning::before {
+	content: "\f46f";
+}
+.bi-tools::before {
+	content: "\f5db";
+}
+.bi-person::before {
+	content: "\f4e1";
+}
+.bi-envelope::before {
+	content: "\f32f";
+}
+.bi-telephone::before {
+	content: "\f5c1";
+}
+.bi-facebook::before {
+	content: "\f344";
+}
