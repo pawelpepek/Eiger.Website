@@ -2,7 +2,10 @@
 
 This is my friend's website [technikilinowe.pl](https://www.technikilinowe.pl/).
 
-## Firebase App Deployment
+## Static website
+
+Website hosted on Firebase.
+
 Based on https://startbootstrap.com/theme/creative
 
 Using:
