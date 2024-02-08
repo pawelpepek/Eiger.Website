@@ -15,7 +15,9 @@ Using:
 
 To make the page load faster, I added external css and JavaScript files to the source (styles.css contains Bootstrap styles).
 
-I have created an SEO strategy for this website.
+[PageSpeed Insights Test](https://pagespeed.web.dev/report?url=https%3A%2F%2Fudemycoursespp.web.app%2F&hl=pl&form_factor=mobile) results:
+- performance about 85% for mobile and 99% for desktop,
+- SEO 100%.
 
 ## WebAPI
 
